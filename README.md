@@ -1,4 +1,5 @@
 ![LUSID_by_Finbourne](https://content.finbourne.com/LUSID_repo.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMikeMcGarry%2Flusid-sdk-python-preview.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMikeMcGarry%2Flusid-sdk-python-preview?ref=badge_shield)
 
 | branch | status |
 | --- | --- |
@@ -14,3 +15,7 @@ $ pip install lusid-sdk-preview
 ```
 
 For further documentation on building the SDK, running the tutorials and using the SDK please see the [wiki](https://github.com/finbourne/lusid-sdk-python-preview/wiki).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMikeMcGarry%2Flusid-sdk-python-preview.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMikeMcGarry%2Flusid-sdk-python-preview?ref=badge_large)
